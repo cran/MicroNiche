@@ -1,0 +1,17 @@
+e3c9ce989cda5ffd070757d891bb741b *DESCRIPTION
+908fb3f9b94070cdb2fccaa1ae691574 *NAMESPACE
+68b329da9893e34099c7d8ad5cb9c940 *R/MicroNiche-internal.R
+b11f876d8b103ec4282eac318df40fa3 *R/feinsingers.PS.R
+0d54cf1bb92930f2ba6463ebfd978a51 *R/hurlberts.Bn.R
+d7057f211fbf0d6abf7a84a8925ee65a *R/levins.Bn.R
+aaaecb0112e210fcc8571e619858d8c9 *R/levins.overlap.R
+397d618c498d46798dd5e4513df0b9ba *R/proportional.overlap.R
+622f2dec612bb0a79d1f2259d704dac5 *build/partial.rdb
+1f370e0120026f669daddd6286d75977 *data/df.rda
+45263e3a0e767f993af00356e090ce66 *man/MicroNiche-package.Rd
+90550e6ac4b688c7577d135116b3887b *man/df.Rd
+7ea9fc2c5b0d9c3c6fdf5ab07fe0c8d3 *man/feinsingers.PS.Rd
+f5fdd414dea8f7431da316c664b0f019 *man/hurlberts.Bn.Rd
+01bf10758c1923e3adcb5c1a06c13ccf *man/levins.Bn.Rd
+5412c5ec8bbf163550d7a21a86fa05b7 *man/levins.overlap.Rd
+db832d84aaf92c4669afdb0b81a159b0 *man/proportional.overlap.Rd

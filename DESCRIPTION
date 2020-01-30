@@ -1,0 +1,23 @@
+Package: MicroNiche
+Type: Package
+Title: Microbial Niche Measurements
+Version: 1.0.0
+Depends: ggplot2, reshape2, stats
+Date: 2020-01-19
+Authors@R: person("Damien",
+           "Finn",
+           role = c("aut", "cre"),
+           email = "damien.finn@uqconnect.edu.au")
+Maintainer: Damien Finn <damien.finn@uqconnect.edu.au>
+Description: Measures niche breadth and overlap of microbial taxa from large matrices.
+			Niche breadth measurements include Levins' niche breadth (Bn) index, Hurlbert's Bn 
+			and Feinsinger's proportional similarity (PS) index. (Feinsinger, P., Spears, E.E.,
+			Poole, R.W. (1981) <doi:10.2307/1936664>). Niche overlap measurements include 
+			Levin's Overlap (Ludwig, J.A. and Reynolds, J.F. (1988, ISBN:0471832359)) and a Jaccard 
+			similarity index of Feinsinger's PS values between taxa pairs, as Proportional Overlap. 
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2020-01-19 01:15:03 UTC; damienfinn
+Author: Damien Finn [aut, cre]
+Repository: CRAN
+Date/Publication: 2020-01-30 09:40:10 UTC
